@@ -3,7 +3,7 @@ This repo contains the source files for the LabVIEW icon editor.
 You can use this code as a starting point for creating a custom icon editor. Refer to the [CONTRIBUTING](CONTRIBUTING.md) document for information about submitting changes for inclusion with future versions of LabVIEW.
 
 ## Minimum Compatible LabVIEW Version
-LabVIEW source is saved in 21.0 (__LabVIEW 2021__) format.
+LabVIEW source is saved in 21.0 (__LabVIEW 2021__) SPI format.
 
 ## Editing Guide ##
 Because the icon editor is part of the LabVIEW development environment, you need to make changes to installed files before editing this project.
